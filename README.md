@@ -12,7 +12,7 @@ Bem-vindo ao meu portfólio de projetos em Tecnologia da Informação, com foco 
 ### 📡 Troubleshooting de Rede
 Diagnóstico e resolução de problemas de conectividade em ambientes de rede.
 
-🔗 https://github.com/jeferson-dev-L1/troubleshooting-rede-ti
+🔗 https://github.com/jeferson-dev-L1/troubleshooting-rede-ti.git
 
 ---
 
