@@ -1,6 +1,3 @@
-# portfolio-ti
-Portfólio de projetos em suporte técnico, redes e infraestrutura de TI
-
 # 💼 Portfólio de Tecnologia da Informação - Jeferson Silva
 
 Bem-vindo ao meu portfólio de projetos em Tecnologia da Informação, com foco em suporte técnico, redes e infraestrutura.
@@ -12,14 +9,14 @@ Bem-vindo ao meu portfólio de projetos em Tecnologia da Informação, com foco 
 ### 📡 Troubleshooting de Rede
 Diagnóstico e resolução de problemas de conectividade em ambientes de rede.
 
-🔗 https://github.com/jeferson-dev-L1/troubleshooting-rede-ti.git
+🔗 https://github.com/jeferson-dev-L1/troubleshooting-rede-ti
 
 ---
 
 ### 🖥️ Checklist de Suporte Técnico
 Padronização do processo de atendimento e resolução de incidentes.
 
-🔗 https://github.com/jeferson-dev-L1/checklist-suporte-tecnico
+🔗 https://github.com/jeferson-dev-L1/checklist-suporte-ti
 
 ---
 
